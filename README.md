@@ -6,51 +6,51 @@
 
 | TASK | MEMBER | DATE | NOTES | STATUS |
 | --- | --- | --- | --- | --- |
-| A clear and compelling articulation of the group's project brief项目简介的副本(PDF) | Muriel | ～10.12 | Gong- Detailed solution scan  | ✅ |
+| A clear and compelling articulation of the group's project brief (PDF) | Muriel | ～10.12 | Gong- Detailed solution scan  | ✅ |
 | A rationale for how the concept will address user needs and requirements | Muriel | ～10.12 | Gong-Research on prototype building | ✅ |
 | A prototype of design concept | Gong | ～10.13 |  | ✅ |
-| 原型开发和迭代的文档(PDF) | Gong | ～10.13 |  | ✅ |
-| A plan for user testing and evaluation用户测试和评估的完整计划(PDF) | Gao | ～10.14 |  | ✅ |
+| prototype and iteration(PDF) | Gong | ～10.13 |  | ✅ |
+| A plan for user testing and evaluation(PDF) | Gao | ～10.14 |  | ✅ |
 | A rationale for how the concept will create change |  | ～10.14 |  | ✅ |
 | Identify how the prototype will enable user/stakeholder testing or evaluation | Gao | ～10.14 |  | ✅ |
 | Key steps and methods of the group's plan for user testing and evaluation | Gao | ～10.14 |  | ✅ |
 | Reference | All | 10.17 |  | ✅ |
 | Presentation Draft | All | ～10.19 |  | ✅ |
-| Slide Typography排版 | TBD | ～10.20 |  | ✅ |
+| Slide Typography layout | TBD | ～10.20 |  | ✅ |
 | Slide Modification  | All | 10.20 |  | ✅ |
 | Presentation Pre | All | ～10.23 |  |  |
 | Showcase the prototype | All | ～10.24 |  |  |
 |  |  |  |  |  |
-| 记录课堂演示反馈已经或将如何实施(PDF) |  | 10.17 |  |  |
+| record pre feedback/how to implement?(PDF) |  | 10.17 |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 | Round 1: low-fi prototype test #3 & #4 |  | ～11.02 |  | ✅ |
-| 整理1st round反馈 |  | ～11.03 |  | ✅ |
-| mid-fi prototype制作 |  | ～11.05 |  | ✅ |
-| Round 2: mid-fi prototype test #1 ~ #6整理反馈 |  | ～11.07 |  | ✅ |
-| 最终physical原型（figma digital interface & paper physical kiosk) |  | ～11.08 |  | ✅ |
-| 海报/支持文档文字内容 |  | ～11.09 |  | ✅ |
-| 海报排版、整理文档、整理附件 |  | 11.10 |  |  |
+| Arrange 1st round feedback |  | ～11.03 |  | ✅ |
+| mid-fi prototype build |  | ～11.05 |  | ✅ |
+| Round 2: mid-fi prototype test #1 ~ #6 organise feedback |  | ～11.07 |  | ✅ |
+| Final physical Prototype(figma digital interface & paper physical kiosk) |  | ～11.08 |  | ✅ |
+| poster.written words |  | ～11.09 |  | ✅ |
+| poster layout |  | 11.10 |  |  |
 
 [https://www.nngroup.com/articles/usability-test-checklist/](https://www.nngroup.com/articles/usability-test-checklist/)
 
 [https://transportnsw.info/alerts#/metro-train](https://transportnsw.info/alerts#/metro-train)
 
 
-# A2 Interview Raw Data
+# A2 Interview Raw Data (Qianchun Gao)
 ### **TEAM CHART-A2**
 
 | TASK | MEMBER | DATE | NOTES |
 | --- | --- | --- | --- |
 | 4. Affinity Diagram | All | 9.18 19:00～9.19 | ✅ |
-| 2. Conduct background research (整理补充内容） | Gong | ～9.19 | ✅ |
-| 2. b. design timescape (整理为图） | Gong | ～9.19 | ✅ |
-| 4. Discuss user needs | Gao | ～9.20 | （根据affinity diagram补充说明 |
-| 4. At Least 2 Personas | Gao | ～9.21 | （考虑控制变量 |
+| 2. Conduct background research (orgainse added info) | Gong | ～9.19 | ✅ |
+| 2. b. design timescape (organise to img) | Gong | ～9.19 | ✅ |
+| 4. Discuss user needs | Gao | ～9.20 | （According to affinity diagram to add |
+| 4. At Least 2 Personas | Gao | ～9.21 | （variable notice! |
 | 4. Relation to Background Research | Gong | ～9.21 |  |
 | 5. Frame the problem and opportunity | Zheng | ～9.22 | ✅ |
-| Typography排版 | TBD | 9.22 |  |
-| 整理Appendix/Reference | TBD | 9.22 |  |
+| Typography layout | TBD | 9.22 |  |
+| Organise Appendix/Reference | TBD | 9.22 |  |
 
 ## **[Outline of Interview Questions](https://www.notion.so/c8fec76f2b7e424d9e35b41865bae043?pvs=21)**
 
